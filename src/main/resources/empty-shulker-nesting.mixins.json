@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "empty.shulker.nesting.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"ShulkerBoxBlockEntityMixin",
+		"ShulkerBoxSlotMixin",
+		"ScreenHandlerFeedbackMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
